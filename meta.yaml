@@ -1,0 +1,6 @@
+---
+displayName: Mosaiq-Runtime
+description: Stack with Mosaiq-Runtime
+tags: ["C/C++", "clang", "g++", "gdb"]
+icon: /images/mosaiq.svg
+globalMemoryLimit: 1686Mi
